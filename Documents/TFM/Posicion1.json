@@ -1,0 +1,19 @@
+[
+	{
+		"urlImagen":"http:\/\/ab.eptisati.com\/LibreriaImagenes\/imagenes\/em\/perfil.jpg",
+		"campoMostrable":"Pilar Plaza Santos",
+		"estado":"Detectado",
+		"nombreTipoElemento":"Limpieza",
+		"fechaPosicion":"2016-12-20 20:00:33.0","nombreColectivo":"Limpieza",
+		"idCliente":2,"idTipoElemento":15,
+		"posicion":{
+			"idPlanta":3,
+			"numeroPlanta":1,
+			"nombrePlanta":"Planta Primera",
+			"coordenadaX":38.97739,
+			"coordenadaY":-1.857271
+		},
+		"idElementoMonitorizable":827,
+		"idColectivo":9
+	}
+]
